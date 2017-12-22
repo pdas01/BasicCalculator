@@ -1,5 +1,4 @@
 # BasicCalculator
-Simple operations
 This calculator Qt project performs  basic calculations such as addition, subtraction, multiplication, division and modulus.
 Below is the UI of my project.
 
